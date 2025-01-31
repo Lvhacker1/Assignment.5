@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QuizGame</title>
+    <link rel="stylesheet" href="./styles/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <script src="./scripts/scripts.js" defer ></script>
+    <script src="./scripts/jquery-3.7.1.min.js"></script>
+</head>
+<body>
+
+    <header class="header">
+        <h1 class="header_page-title"></h1>
+    </header>
+
+    <section class="main-section">
+    <section class="section player-section">
+        <h2 class="player-title"></h2>
+        <select class="player-selection">
+            <option class="option1" value="1"></option>
+            <option class="option2" value="2"></option>
+        </select>
+        <button class="start-button"></button>
+    </section>
+
+    <section class="section quiz-section">
+        <h2 class="quiz-question"></h2>
+        <div class="quiz-scoreboard"></div>
+        <div class="quiz-player"></div>
+        <div class="quiz-options">
+            <button class="option"></button>
+            <button class="option"></button>
+        </div>
+        <button class="next-button"></button>
+        <button class="cancel-button"></button>
+    </section>
+
+    <section class="section fade-section">
+        <p class="explanation"></p>
+    </section>
+
+    <section class="section game-summary">
+        <p class="game-rounds"></p>
+        <p class="game-winner"></p>
+        <button class="replay-button"></button>
+    </section>
+    </section>
+</body>
+</html>
