@@ -37,10 +37,6 @@ body {
     padding: 10px;
 }
 
-.player-section {
-
-}
-
 .player-title {
     font-size: 24px;
     background-color: transparent;
@@ -87,19 +83,10 @@ button {
       "wdth" 100;
       cursor: pointer;
 }
-
-.gamme-summary {
-    
-}
-
 .quiz-section {
     display: flex;
     flex-direction: column;
     margin: 10px;
-}
-
-.quiz-question {
-    
 }
 
 .quiz-scoreboard {
@@ -116,9 +103,6 @@ button {
     color: #dbaa65;
     padding: 10px;
     margin: 5px;
-}
-
-.quiz-options {
 }
 
 .next-button {
@@ -163,7 +147,6 @@ button {
 }
 
 @media screen and (min-width: 700px) {
-
 
     .quiz-section {
         display: flex;
@@ -223,14 +206,6 @@ button {
        font-size: 30px;
     }
 
-    .quiz-player {
-        
-    }
-
-    .quiz-options {
-    
-    }
-
     .option {
         width: 450px;
         font-size: 24px;
@@ -239,10 +214,6 @@ button {
     .next-button {
       width: 300px;
       font-size: 24px;
-    }
-
-    .cancel-button {
-    
     }
 
     .fade-section {
