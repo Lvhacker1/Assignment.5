@@ -78,10 +78,10 @@ const quizQuestions = [
         explanation: "Correct answer: The Forbidden Tree. (Surah Al-Baqarah 2:35, 'And We said: O Adam, reside you and your mate in the paradise, and eat from it bountifully as you both wish, and do not come near this tree, else you will be of those who have wronged.')"
     },
     {
-        question: "Vad säger Koranen om att följa majoriteten i frågor om rätt och fel?",
-        options: ["Majoriteten har alltid rätt", "Följ inte majoriteten om de leder vilse"],
-        correct: "Följ inte majoriteten om de leder vilse",
-        explanation: "Rätt svar: Följ inte majoriteten om de leder vilse. (Surah Al-An’am 6:116, 'Om du lyder de flesta på jorden, skulle de vilseleda dig bort från Allahs väg. De följer bara antaganden, och de gissar endast.')"
+        question: "What does the Quran say about following the majority in matters of right and wrong?",
+        options: ["The majority is always right", "Do not follow the majority if they lead astray"],
+        correct: "Do not follow the majority if they lead astray",
+        explanation: "Correct answer: Do not follow the majority if they lead astray. (Surah Al-An’am 6:116, 'If you obey most of those on earth, they will mislead you far away from Allah’s path. They follow nothing but assumptions, and they only guess.')"
     }
 ]
 
